@@ -1,4 +1,5 @@
-# Design-and-Implement-of-SNR-Assessment-for-Multimodel-Data
+# README
+
 ## Project Overview
 This project aims to perform denoising on multimodal data (including images, videos, and audio) by calculating the Signal-to-Noise Ratio (SNR). The specific process and implementation details are as follows:
 
